@@ -44,6 +44,11 @@ Example XML strings file.
 
 ![](screenshots/xml-01.png)
 
+Example Git gutter.
+
+![](screenshots/git-gutter-01.png)
+
+
 In the below screenshot, I am using the [Material UI plugin](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) UI theme called Moonlight with UI font [Comic Shanns](https://github.com/shannpersand/comic-shanns) and editor font [Fira Code](https://github.com/tonsky/FiraCode) without ligatures.
 
 ![](screenshots/kotlin-04-editor-material-moonlight.png)
