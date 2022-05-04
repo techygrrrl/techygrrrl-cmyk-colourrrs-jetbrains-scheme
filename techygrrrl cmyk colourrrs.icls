@@ -1,9 +1,9 @@
 <scheme name="techygrrrl cmyk colourrrs" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-05-01T20:33:48</property>
+    <property name="created">2022-05-04T00:19:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.25</property>
-    <property name="modified">2022-05-01T20:33:56</property>
+    <property name="modified">2022-05-04T00:19:35</property>
     <property name="originalScheme">techygrrrl cmyk colourrrs</property>
   </metaInfo>
   <colors>
@@ -121,9 +121,14 @@
         <option name="FOREGROUND" value="15aeef" />
       </value>
     </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="15efae" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffff" />
+        <option name="FOREGROUND" value="15efae" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
@@ -667,6 +672,13 @@
       <value>
         <option name="EFFECT_COLOR" value="ef1563" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffef28" />
+        <option name="BACKGROUND" value="7515ef" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
