@@ -3,7 +3,7 @@
     <property name="created">2022-05-04T00:19:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.25</property>
-    <property name="modified">2022-05-04T00:19:35</property>
+    <property name="modified">2022-07-07T21:21:35</property>
     <property name="originalScheme">techygrrrl cmyk colourrrs</property>
   </metaInfo>
   <colors>
@@ -555,6 +555,8 @@
         <option name="FOREGROUND" value="b596f8" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="ef9815" />
