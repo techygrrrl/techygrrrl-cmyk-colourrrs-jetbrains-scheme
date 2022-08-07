@@ -14,7 +14,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="130e0f" />
     <option name="DELETED_LINES_COLOR" value="ef1563" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b223f" />
-    <option name="DOCUMENTATION_COLOR" value="382c51" />
+    <option name="DOCUMENTATION_COLOR" value="2b223f" />
     <option name="DOC_COMMENT_LINK" value="ef15bf" />
     <option name="FILESTATUS_ADDED" value="15efae" />
     <option name="FILESTATUS_COPIED" value="15efae" />
@@ -47,7 +47,7 @@
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="ef1563" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="ef9815" />
     <option name="INDENT_GUIDE" value="463767" />
-    <option name="INFORMATION_HINT" value="382c51" />
+    <option name="INFORMATION_HINT" value="2b223f" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ef15bf" />
     <option name="MODIFIED_LINES_COLOR" value="ef9815" />
