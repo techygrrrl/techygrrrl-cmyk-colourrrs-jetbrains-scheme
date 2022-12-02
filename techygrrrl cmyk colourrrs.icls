@@ -261,12 +261,18 @@
         <option name="FOREGROUND" value="ebef15" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="ebef15" />
       </value>
     </option>
-    <option name="DEFAULT_CONSTANT" value="ffffff" />
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="807694" />
