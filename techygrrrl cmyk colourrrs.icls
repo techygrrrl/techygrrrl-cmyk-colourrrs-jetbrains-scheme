@@ -16,25 +16,30 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b223f" />
     <option name="DOCUMENTATION_COLOR" value="2b223f" />
     <option name="DOC_COMMENT_LINK" value="ef15bf" />
-    <option name="FILESTATUS_ADDED" value="15efae" />
-    <option name="FILESTATUS_COPIED" value="15efae" />
-    <option name="FILESTATUS_DELETED" value="878292" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="878292" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="453f2b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ef1563" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ef1563" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ef1563" />
-    <option name="FILESTATUS_MODIFIED" value="d5d2dc" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="463767" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="463767" />
-    <option name="FILESTATUS_OBSOLETE" value="ef9815" />
-    <option name="FILESTATUS_RENAMED" value="15efae" />
-    <option name="FILESTATUS_SUPPRESSED" value="2b223f" />
-    <option name="FILESTATUS_SWITCHED" value="ef1563" />
-    <option name="FILESTATUS_UNKNOWN" value="ef1563" />
-    <option name="FILESTATUS_addedOutside" value="15efae" />
-    <option name="FILESTATUS_changelistConflict" value="ef9815" />
-    <option name="FILESTATUS_modifiedOutside" value="d5d2dc" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="72f1b8" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="fe4450" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffffff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="7af8ca" />
+    <option name="FILESTATUS_MERGED" value="36f9f6" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="fede5d" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="3edf9" />
+    <option name="FILESTATUS_changelistConflict" value="a148ab" />
+    <option name="FILESTATUS_modifiedOutside" value="a148ab" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="130e0f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ef1563" />
