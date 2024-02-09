@@ -1,4 +1,4 @@
-# This repository is now archived because the colour scheme was bundled in with the UI theme. This is the newest repository: https://github.com/techygrrrl/techygrrrl-cmyk-jetbrains-theme
+# This repository is now archived because the colour scheme was bundled in with the UI theme. This is the newest repository: https://github.com/techygrrrl/techygrrrl-cmyk-colourrrs-jetbrains
 
 ---
 ---
